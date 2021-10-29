@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HyosoonJang
+- 👋 Hi, I’m @sooonlog
 - 👀 I’m interested in all about FE
 - 🌱 I’m currently learning HTML CSS JS etc
 - 📫 How to reach me gytns0100@gmail.com
