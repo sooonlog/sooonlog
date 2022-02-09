@@ -15,7 +15,7 @@
 - 💰 Before I started this career, I learned about finance  
   
 
-- 👀 I’m interested in all about FE  
+- 👀 I’m interested in all about Web  
   
 
 <br/>  
