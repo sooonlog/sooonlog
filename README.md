@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 
-### <div align="center">I'm @sooonlog, be a FE developer 👨‍💻</div>  
-  
+### <div align="center">I'm @sooonlog, Developer 👨‍💻</div>  
+<br><br>
 
 - 🔭 I’m study day and night on [sooonlog](https://github.com/sooonlog/)  
   
